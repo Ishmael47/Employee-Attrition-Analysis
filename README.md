@@ -41,12 +41,15 @@ Slicers: Filter by Gender
 Business Questions Answered
 
 Which department has the highest attrition rate?
+
 Answer: The Sales department exhibits the highest attrition rate.
 
 Does marital status affect attrition?
+
 Answer: Single employees have a lower attrition rate compared to married employees.
 
 What is the overall attrition rate?
+
 Answer: The overall attrition rate stands at around 16%.
 
 Contents
